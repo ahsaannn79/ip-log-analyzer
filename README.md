@@ -50,14 +50,14 @@ python mini_log.py
 
 
 # Concepts Used
-File Handling
-Regular Expressions (Regex)
-Dictionaries
+File Handling,
+Regular Expressions (Regex),
+Dictionaries,
 Functions
 
 # Future Improvements
-Support for different log formats
-Automated alert system
+Support for different log formats,
+Automated alert system,
 Advanced reporting with visualization
 
 # Note
