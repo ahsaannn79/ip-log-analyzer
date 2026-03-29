@@ -20,7 +20,7 @@ Generating a structured report
 # How to Run
 
 1. Clone the repository:
-git clone https://github.com/ahsaannn79/ip-log-analyzer
+git clone https://github.com/ahsaannn79/ip-log-analyzer.git
 
 2. Navigate to the project folder:
 cd ip-log-analyzer
