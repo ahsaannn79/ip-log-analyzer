@@ -5,7 +5,7 @@ A Python-based log analysis tool that extracts IP addresses, counts activity, an
 IP Log Analyzer using Python & Regex
 
 
-📖 Description
+# Description
 This project analyzes log files to extract and monitor IP addresses.
 
 It performs:
@@ -17,7 +17,7 @@ Identifying suspicious IPs based on user-defined threshold
 Generating a structured report
 
 
-⚙️ How to Run
+# How to Run
 
 1. Clone the repository:
 git clone https://github.com/ahsaannn79/ip-log-analyzer
@@ -39,23 +39,23 @@ python mini_log.py
 
 5. Enter the suspicious IP threshold when prompted.
 
-## 📌 Important Note
+# Important Note
 - Make sure your log file is in the **same directory** as the Python script  
 - The default file name used in the script is:
 - logs.txt
 
 - You can change the file name in the code if needed  
 
-## Sample log file is included in the repository for testing
+ Sample log file is included in the repository for testing
 
 
-🧠 Concepts Used
+# Concepts Used
 File Handling
 Regular Expressions (Regex)
 Dictionaries
 Functions
 
-🚀 Future Improvements
+# Future Improvements
 Support for different log formats
 Automated alert system
 Advanced reporting with visualization
